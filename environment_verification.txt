@@ -1,0 +1,21 @@
+user1@Lois-MacBook-Pro intro to AI %  source "/Users/user1/Library/Cl
+oudStorage/OneDrive-Personal/Desktop/2nd year/2nd sem/intro to AI/.ve
+nv/bin/activate"
+^C%                                                                  
+user1@Lois-MacBook-Pro intro to AI % "/Users/user1/Library/CloudStora
+ge/OneDrive-Personal/Desktop/2nd year/2nd sem/intro to AI/.venv/bin/p
+ython" "/Users/user1/Library/CloudStorage/OneDrive-Personal/Desktop/2
+nd year/2nd sem/intro to AI/lab0-git-practice/ai-course-lab0/environm
+ent_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.9.6
+✅ OS: Darwin 25.4.0
+✅ NumPy: 2.0.2
+✅ Pandas: 2.3.3
+✅ Matplotlib: 3.9.4
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/Users/user1/Library/CloudStorage/OneDrive-Personal/Desktop/2nd year/2nd sem/intro to AI/.venv)
+==================================================
+user1@Lois-MacBook-Pro intro to AI % 
